@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 
 <suite name="test_automation" verbose="1" >
@@ -8,3 +9,15 @@
         </classes>
     </test>
 </suite>
+=======
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="test_automation" verbose="1" >
+    <test name="Costco" >
+        <classes>
+            <class name="Costco.AddToCart"/>
+
+        </classes>
+    </test>
+</suite>
+>>>>>>> origin/main
